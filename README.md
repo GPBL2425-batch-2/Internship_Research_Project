@@ -126,9 +126,3 @@ This repository contains the Express.js backend server for the robot compost sys
     ```
 
 ---
-
-### Final Check
-
-This draft covers all the key points you provided. I just need one last piece of information for the backend:
-
--   **What is the exact command to start the Express.js server?** (e.g., `npm start`, `node server.js`, `npm run dev`, etc.). This can be found in your `package.json` file under the `scripts` section.
